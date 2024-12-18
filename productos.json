@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fernet Branca",
+        "precio": 100,
+        "tipo": "Bebida c/Alcohol",
+        "img": "img/fernet-branca.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Gin Bombay",
+        "precio": 100,
+        "tipo": "Bebida c/Alcohol",
+        "img": "img/bombay.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Absolute",
+        "precio": 100,
+        "tipo": "Bebida c/Alcohol",
+        "img": "img/vodka-absolut-apeach-750ml.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Jack Daniel",
+        "precio": 100,
+        "tipo": "Bebida c/Alcohol",
+        "img": "img/whiskey-jack-daniel-honey.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Stela Artois",
+        "precio": 100,
+        "tipo": "Bebida c/Alcohol",
+        "img": "img/stella-artois.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Coca Cola",
+        "precio": 100,
+        "tipo": "Bebida s/Alcohol",
+        "img": "img/cocacola.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Sprite",
+        "precio": 100,
+        "tipo": "Bebida s/Alcohol",
+        "img": "img/sprite.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Speed",
+        "precio": 100,
+        "tipo": "Bebida s/Alcohol",
+        "img": "img/speed.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Red Bull",
+        "precio": 100,
+        "tipo": "Bebida s/Alcohol",
+        "img": "img/red-bull.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Paso de los Toros",
+        "precio": 100,
+        "tipo": "Bebida s/Alcohol",
+        "img": "img/paso-de-los-toros.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Baggio",
+        "precio": 100,
+        "tipo": "Bebida s/Alcohol",
+        "img": "img/baggio.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Vasos",
+        "precio": 100,
+        "tipo": "Otros",
+        "img": "img/vaso-botella.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Batidor",
+        "precio": 100,
+        "tipo": "Otros",
+        "img": "img/cuchara.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Hielera",
+        "precio": 100,
+        "tipo": "Otros",
+        "img": "img/frapera.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Coctelera",
+        "precio": 100,
+        "tipo": "Otros",
+        "img": "img/set-bartender.jpg"
+    }
+]
